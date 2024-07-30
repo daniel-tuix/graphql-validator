@@ -15,8 +15,11 @@ npm run start:dev;
 ```
 now you can access to http://localhost:3000/graphql to get access to the schema
 
-### How to use the script?
-To use the script just need to use these commands from terminal: (you need to run backend first)
+### How to use the script? 
+
+To use the script just need to use these commands from terminal:
+
+(you need to run the backend first)
 
 ``` 
 cd frontend/script;
